@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\obj\Debug\net8.0\Task_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\obj\Debug\net8.0\Task_002.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\obj\Debug\net8.0\Task_002.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\obj\Debug\net8.0\Task_002.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\bin\Debug\net8.0\Task_002.exe
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\bin\Debug\net8.0\Task_002.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\bin\Debug\net8.0\Task_002.runtimeconfig.json
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\bin\Debug\net8.0\Task_002.dll
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\bin\Debug\net8.0\Task_002.pdb
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\obj\Debug\net8.0\Task_002.dll
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\obj\Debug\net8.0\refint\Task_002.dll
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\obj\Debug\net8.0\Task_002.pdb
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\obj\Debug\net8.0\Task_002.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Рабочий стол\GB\С scharp\практика\дз к семинарам\семинар 4 дз\Tasks\Task_002\obj\Debug\net8.0\ref\Task_002.dll
